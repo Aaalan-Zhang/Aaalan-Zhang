@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaalan-Zhang&hide_progress=true)
+![Aaalan-Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaalan-Zhang&hide=contribs,prs)
+
+
