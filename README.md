@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 🏫 I am a graduate student in the Master of Computational Data Science program @ CMU SCS.
-~~This graduate program is just, fine.~~
+~~This program is just, fine.~~
 *  🎓 I graduated with a BS in Data Science from Duke Kunshan University in Suzhou, China
 (and a BS from Duke University, good time in Durham, NC🍂).
 * 🏃 Currently trying to spend less than 7 hours traveling 370mi from my apartment to New Haven, CT.
