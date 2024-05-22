@@ -3,8 +3,9 @@
 ~~This program is just, fine🙃.~~
 *  🎓 I graduated with a BS in Data Science from Duke Kunshan University in Suzhou, China
 (and a BS from Duke University, good time in Durham, NC🍂).
-* 📖 Interested in exploring late modern period history and public transportation.
-* 🏃 Currently trying to spend less than 7 hours traveling from my apartment in Pittsburgh to New Haven, CT.
+* 📖 Interested in exploring late modern period history, political economy, and public transportation.
+* 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in Pittsburgh to New Haven, CT.
+* 🥲 Struggling to find a job.
 
 <!--
 **Aaalan-Zhang/Aaalan-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
