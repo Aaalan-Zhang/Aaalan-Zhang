@@ -4,7 +4,7 @@
 *  🎓 I graduated with a BS in Data Science from Duke Kunshan University in Suzhou (Soochow, 苏州), China
 (and a BS from Duke University, good time in Durham, NC🍂).
 * 📖 Interested in exploring late modern period history, political economy, and public transportation.
-* 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in Pittsburgh to New Haven, CT. Now trying to fly to PVD.
+* 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in PGH to NHV. Now trying to fly to PVD.
 * 🥲 Struggling to find a job.
 
 <!--
