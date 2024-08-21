@@ -5,7 +5,7 @@
 * 📖 Interested in exploring late modern period history, political economy, and public transportation.
 * 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in PGH to NHV🙃.
 * 🥲 Struggling to find a job.
-* 🧑‍💻 Currently developing my personal site. Checkout chenglinzhang.com.
+* 🧑‍💻 Currently developing my personal site. Checkout chenglinzhang.com.😄
 
 <!--
 **Aaalan-Zhang/Aaalan-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
