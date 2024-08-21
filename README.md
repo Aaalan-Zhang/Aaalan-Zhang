@@ -1,7 +1,8 @@
 ### Hi there 👋
+
 * 🏫 I am a graduate student in the Master of Computational Data Science program @ CMU SCS.
-~~This program is just, fine🙃.~~
-*  🎓 I graduated with a dual BS degree in Data Science from Duke Kunshan University in Suzhou (Soochow, 苏州), China, and a BS from Duke University (good time in Durham, NC🍂).
+  ~~This program is just, fine🙃.~~
+* 🎓 I graduated with a dual BS degree in Data Science from Duke Kunshan University in Suzhou (Soochow, 苏州), China, and a BS from Duke University (good time in Durham, NC🍂).
 * 📖 Interested in exploring late modern period history, political economy, and public transportation.
 * 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in PGH to NHV🙃.
 * 🥲 Struggling to find a job.
@@ -21,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaalan-Zhang)
 -->
@@ -28,5 +30,3 @@ Here are some ideas to get you started:
 <!--
 ![Aaalan-Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaalan-Zhang&hide=contribs,prs)
 -->
-
-
