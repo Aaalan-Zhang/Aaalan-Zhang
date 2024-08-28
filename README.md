@@ -4,9 +4,11 @@
   ~~This program is just, fine🙃.~~
 * 🎓 I graduated with a dual BS degree in Data Science from Duke Kunshan University in Suzhou (Soochow, 苏州), China, and a BS from Duke University (good time in Durham, NC🍂).
 * 📖 Interested in exploring late modern period history, political economy, and public transportation.
+* 🧑‍💻 For serious stuff, currently working on a data pipeline and backend for an E-learning platform. Thinking about how to make it more scalable...
+* 🧑‍💻 The other stuff is for flask development, well, that's only a small part of an overly complicated project.
 * 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in PGH to NHV🙃.
 * 🥲 Struggling to find a job.
-* 🧑‍💻 Currently developing my personal site. Checkout chenglinzhang.com.😄
+* 🧑‍💻 Developing my personal site. Checkout chenglinzhang.com.😄
 
 <!--
 **Aaalan-Zhang/Aaalan-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
