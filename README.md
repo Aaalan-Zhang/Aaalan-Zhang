@@ -7,7 +7,7 @@
 * 🧑‍💻 For serious stuff, currently working on the data pipeline and backend for an E-learning platform. I am thinking about how to make it more scalable. The other stuff is for flask development, well, that's only a small part of an overly complicated project.
 * 🧑‍💻 Learning some LLM knowledge.
 * 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in PGH to NHV🙃. Spent Summer 2024 in Providence, RI🌊. Good time there.
-* 🥲 Struggling to find a job. But I will be a good programmer and engineer.
+* 🥲 Struggling to find a job.
 * 🧑‍💻 Developing my personal site. Checkout chenglinzhang.com.😄
 
 <!--
