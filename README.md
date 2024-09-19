@@ -9,7 +9,7 @@
 * 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in PGH to NHV🙃. Spent Summer 2024 in Providence, RI🌊. Good time there.
 * 🥲 Struggling to find a job.
 * 🧑‍💻 Developing my personal site. Checkout chenglinzhang.com.😄
-
+* @Cyngua[https://github.com/Cyngua]
 <!--
 **Aaalan-Zhang/Aaalan-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
