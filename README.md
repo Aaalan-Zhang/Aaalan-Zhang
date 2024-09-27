@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🏫 I am a graduate student in the Master of Computational Data Science program @ CMU SCS.
+* 🏫 I am a graduate student in the Master of Computational Data Science program @ Carnegie Mellon University, School of Computer Science.
   ~~This program is just, fine🙃.~~
 * 🎓 I graduated with a dual BS degree in Data Science from Duke Kunshan University in Suzhou (Soochow, 苏州), China, and a BS from Duke University (good time in Durham, NC🍂).
 * 📖 Interested in exploring late modern period history, political economy, and public transportation.
