@@ -10,7 +10,7 @@
 * 🥲 Struggling to find a job.
 * 🧑‍💻 Developing my personal site. Checkout chenglinzhang.com.😄
 * @[Cyngua](https://github.com/Cyngua)
-[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaalan-Zhang)](https://github.com/Aaalan-Zhang)
+<!--[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaalan-Zhang)](https://github.com/Aaalan-Zhang)-->
 <!--
 **Aaalan-Zhang/Aaalan-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
