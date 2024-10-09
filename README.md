@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Alan.
 
 * 🏫 I am a graduate student in the Master of Computational Data Science program @ Carnegie Mellon University, School of Computer Science.
   ~~This program is just, fine🙃.~~
