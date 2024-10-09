@@ -4,7 +4,7 @@
   ~~This program is just, fine🙃.~~
 * 🎓 I graduated with a dual BS degree in Data Science from Duke Kunshan University in Suzhou (Soochow, 苏州), China, and a BS from Duke University (good time in Durham, NC🍂).
 * 📖 Interested in exploring late modern period history, political economy, and public transportation.
-* 🧑‍💻 For serious stuff, currently working on the data pipeline and backend for an E-learning platform. I am thinking about how to make it more scalable. Another stuff is for flask development, well, that's only a small part of an overly complicated project. I am also working on building a QA system that integrates RAG, which is very interesting.
+* 🧑‍💻 For serious stuff, currently working on the data pipeline and backend for an E-learning platform. I am thinking about how to make it more scalable. Another stuff is for a nice startup project, well, but I feel like the development team is a bit understaffed. I am also working on building a QA system that integrates RAG, which is very interesting.
 * 🧑‍💻 Learning a lot of systems knowledge and some LLM knowledge. 日本語を勉強しています。
 * 🏃 Frequent traveler✈️. Successfully spent less than 7 hours from my apartment in PGH to NHV🙃. Spent Summer 2024 in Providence, RI🌊. Good time there.
 * 🥲 Struggling to find a job.
