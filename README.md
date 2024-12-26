@@ -7,7 +7,7 @@
 * 🧑‍💻 Learning a lot about systems and LLMs. 日本語を勉強しています。
 * 🏃 Frequent traveler✈️. Managed to spend less than 7 hours traveling from my apartment in PGH to NHV🙃. Spent Summer 2024 in Providence, RI🌊. Good times there.
 * 🥲 Currently struggling to find a job.
-* 🧑‍💻 Developing my personal site. Check out chenglinzhang.com. Will migrate to alanvoid.com soon.
+* 🧑‍💻 Developing my personal site. Check out alanvoid.com
 * @[Cyngua](https://github.com/Cyngua)
 <!--[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaalan-Zhang)](https://github.com/Aaalan-Zhang)-->
 <!--
