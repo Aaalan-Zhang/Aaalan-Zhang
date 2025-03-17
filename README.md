@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Alan.
 
-*	🏫 I am a graduate student in the Master of Computational Data Science program at Carnegie Mellon University, School of Computer Science. ~~This program is just...fine🙃. I wish there were more time to do the things we want.~~
+*	🏫 I am a graduate student in the Master of Computational Data Science (MCDS) program at Carnegie Mellon University, School of Computer Science. ~~This program is just...fine🙃. I wish there were more time to do the things we want.~~
 * 🎓 I graduated with a dual BS degree in Data Science from Duke Kunshan University in Suzhou (Soochow, 苏州), China, and a BS from Duke University (great times in Durham, NC🍂).
 * 📖 I am interested in exploring late modern period history, political economy, and public transportation.
 * 🧑‍💻 For serious stuff, I am currently working on the data pipeline and backend for an E-learning platform, thinking about how to make it more scalable. I’m also involved in a startup project, though the development team feels a bit understaffed. Additionally, I’m building a QA system that integrates RAG, which is very interesting.
