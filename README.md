@@ -6,7 +6,7 @@
 * 🧑‍💻 For serious stuff, I worked on several interesting projects at CMU. Some notable ones include building part of the data pipeline and backend for an LMS, and I am thinking about how to make it more scalable. Another one is building an AFS-style distributed file system, where I think there is so much that I can explore. I was also involved in two startup projects, though both development teams feel a bit chaotic :).
 * 🧑‍💻 Learning a lot about building distributed systems and LLM applications. 日本語を勉強しています。
 * 🏃 Frequent traveler✈️. Managed to spend less than 7 hours traveling from my apartment in PGH to NHV🙃. Spent Summer 2024 in Providence, RI🌊. Good times there.
-* 🧑‍💻 Developing my personal site. Check out alanvoid.com
+* 🧑‍💻 Developing my personal site. Check out alanvoid.com. I am also thinking of making some of my projects open-source and contributing to other open-source projects.
 * @[Cyngua](https://github.com/Cyngua)
 <!--[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaalan-Zhang)](https://github.com/Aaalan-Zhang)-->
 <!--
